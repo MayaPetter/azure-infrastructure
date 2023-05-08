@@ -1,2 +1,2 @@
 # azure-infrastructure
-Azure
+PowerShell script that interacts with Azure Active directory
